@@ -1,0 +1,13 @@
+
+h1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 100px;
+}
+a {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: green;
+}
